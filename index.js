@@ -115,3 +115,167 @@
 
 // console.log(emptyArray([1, 3]));
 // console.log(emptyArray([]));
+
+
+
+
+// const myObject = {
+//   key1: true,
+//   key5: 10,
+//   key3: "abc",
+//   key4: null,
+//   key10: NaN
+// };
+
+// for (let key in myObject){
+//   if(key === "key3" || key === "key1" ){
+//     console.log(myObject[key])
+// }
+ 
+  
+// }
+
+
+// const myNumbers = [
+//   2355,
+//   7235,
+//   8135,
+//   1762,
+//   2361,
+//   8351
+// ];
+
+// let newRandomNumber;
+
+
+//   Math.floor(Math.random() * (max - min + 1)) + min;
+
+
+
+
+
+
+
+// function numbers(i)
+// {
+//   console.log(i);
+
+//   let myNumbers = i + 1;
+
+//   if(myNumbers < 6){
+//     numbers(myNumbers);
+//   }
+
+// }
+
+// numbers(0);
+
+// const persons = [
+//   {
+//     name: "Mike",
+//     age: 20
+//   },
+
+//   {
+//     name: "Bob",
+//     age: 30
+//   },
+
+//   {
+//     name: "Alice",
+//     age: 27
+//   }
+
+// ];
+
+
+
+// for (let person of persons) {
+//   console.log(person.name + " is " + person.age + " years old");
+// }
+
+
+// let color = "green";
+
+// switch (color) {
+//   case "green":
+//     console.log("it is green color");
+    
+
+//   case "yellow":
+//     console.log("it is yeallow");
+//     break;
+
+//   default:
+//     console.log("color unknownd");
+// }
+
+// let i = 10;
+// let j = 23;
+
+// true || false
+//   ? console.log("maladec")
+//   : console.log("dsds");
+
+
+// const myObject = {
+//   key1: true,
+//   key5: 10,
+//   key3: "abc",
+//   key4: null,
+//   key10: NaN
+// };
+
+// for (key in myObject) {
+
+// if(key === "key1" || key === "key4"){
+//   console.log(myObject[key])
+// }
+
+
+  
+// }
+
+let MIN = 1000;
+let MAX = 9999;
+
+
+ const myNumbers = [
+    2355,
+    
+    8351
+  ];
+  
+  let newRandomNumber;
+
+  // function add(){
+
+  //   function generate(min, max) {
+  //     newRandomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+
+      
+
+  //     for (number of myNumbers) {
+  //       if(newRandomNumber !== number){
+  //         myNumbers.push(newRandomNumber);
+  //         console.log(myNumbers);
+          
+  //       }else{
+  //         add();
+  //       } 
+  //       }
+  //     }
+
+  //     generate(MIN, MAX);
+  // }
+
+ 
+  // add();
+
+
+  for (number of myNumbers) {
+      if(number === 8351){
+        console.log(number);
+      
+      }
+  }
